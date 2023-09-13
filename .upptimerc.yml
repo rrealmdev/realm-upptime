@@ -7,10 +7,23 @@ sites:
     url: https://everyrealm.com
   - name: Everyworld Marketing Site
     url: https://everyworld.com
+  - name: Hometopia  
+    url: https://hometopia.com
+  - name: Bedlam  
+    url: https://Bedlam.gg
   - name: RU1 
     url: https://ru1.com
   - name: Ringleaders Marketing Site 
     url: https://playringleaders.com
+  - name: Fantasy Islands
+    url: https://fantasyislands.xyz
+  - name: Electric Llama
+    url: https://electricllama.gg
+  - name: Jack's House
+    url: https://jackshouse.com
+  
+  
+  
 
 assignees: # Users to assign downtime issues (optional)
   - tankcdr

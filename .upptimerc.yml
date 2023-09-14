@@ -21,6 +21,8 @@ sites:
     url: https://electricllama.gg
   - name: Jack's House
     url: https://jackshouse.com
+  - name: test down site
+    url: https://http://downsite.gg/
   
   
   

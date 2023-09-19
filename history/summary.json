@@ -40,9 +40,9 @@
     "url": "https://hometopia.com",
     "icon": "https://icons.duckduckgo.com/ip3/hometopia.com.ico",
     "slug": "hometopia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 618,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   },
   {
     "name": "Bedlam",

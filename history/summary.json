@@ -40,19 +40,19 @@
     "url": "https://hometopia.com",
     "icon": "https://icons.duckduckgo.com/ip3/hometopia.com.ico",
     "slug": "hometopia",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 3403,
-    "timeDay": 13876,
-    "timeWeek": 3403,
-    "timeMonth": 3403,
-    "timeYear": 3403,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3074,
+    "timeDay": 9286,
+    "timeWeek": 3074,
+    "timeMonth": 3074,
+    "timeYear": 3074,
     "dailyMinutesDown": {
-      "2023-09-19": 14
+      "2023-09-19": 0
     }
   },
   {

@@ -4,10 +4,10 @@
     "url": "https://everyrealm.com",
     "icon": "https://icons.duckduckgo.com/ip3/everyrealm.com.ico",
     "slug": "everyrealm-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
@@ -15,17 +15,19 @@
     "timeWeek": 386,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "Everyworld Marketing Site",
     "url": "https://everyworld.com",
     "icon": "https://icons.duckduckgo.com/ip3/everyworld.com.ico",
     "slug": "everyworld-marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
@@ -33,7 +35,9 @@
     "timeWeek": 340,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "Hometopia",
@@ -58,10 +62,10 @@
     "url": "https://Bedlam.gg",
     "icon": "https://icons.duckduckgo.com/ip3/bedlam.gg.ico",
     "slug": "bedlam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 436,
@@ -69,17 +73,19 @@
     "timeWeek": 381,
     "timeMonth": 436,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "RU1",
     "url": "https://ru1.com",
     "icon": "https://icons.duckduckgo.com/ip3/ru1.com.ico",
     "slug": "ru-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
@@ -87,16 +93,18 @@
     "timeWeek": 367,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "Ringleaders Marketing Site",
     "url": "https://playringleaders.com",
     "icon": "https://icons.duckduckgo.com/ip3/playringleaders.com.ico",
     "slug": "ringleaders-marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +113,9 @@
     "timeWeek": 358,
     "timeMonth": 402,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Fantasy Islands",

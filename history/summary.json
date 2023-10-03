@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everyrealm.com.ico",
     "slug": "everyrealm-main-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 458,
     "timeDay": 232,
     "timeWeek": 386,
     "timeMonth": 458,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://everyworld.com",
     "icon": "https://icons.duckduckgo.com/ip3/everyworld.com.ico",
     "slug": "everyworld-marketing-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 264,
-    "timeWeek": 340,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 433,
+    "timeDay": 427,
+    "timeWeek": 371,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 8
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://Bedlam.gg",
     "icon": "https://icons.duckduckgo.com/ip3/bedlam.gg.ico",
     "slug": "bedlam",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 290,
-    "timeWeek": 381,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 444,
+    "timeDay": 454,
+    "timeWeek": 411,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 8
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://ru1.com",
     "icon": "https://icons.duckduckgo.com/ip3/ru1.com.ico",
     "slug": "ru-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 251,
-    "timeWeek": 367,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 422,
+    "timeDay": 391,
+    "timeWeek": 387,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 8
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://playringleaders.com",
     "icon": "https://icons.duckduckgo.com/ip3/playringleaders.com.ico",
     "slug": "ringleaders-marketing-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 280,
-    "timeWeek": 358,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 410,
+    "timeDay": 434,
+    "timeWeek": 386,
+    "timeMonth": 410,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 8
     }
   },
   {

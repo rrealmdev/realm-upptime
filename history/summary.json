@@ -58,18 +58,20 @@
     "url": "https://Bedlam.gg",
     "icon": "https://icons.duckduckgo.com/ip3/bedlam.gg.ico",
     "slug": "bedlam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 610,
-    "timeWeek": 610,
-    "timeMonth": 487,
-    "timeYear": 487,
-    "dailyMinutesDown": {}
+    "time": 485,
+    "timeDay": 518,
+    "timeWeek": 587,
+    "timeMonth": 485,
+    "timeYear": 485,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "RU1",
